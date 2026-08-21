@@ -1,5 +1,10 @@
 # Build Your VPC and Launch a Web Server (AWS) 
 
+## Author
+
+* **Name**: Tharun Gandhi M
+* **Register Number**: 212224060285
+* **Date of Submission**: 21/08/2026
 ---
 
 ## Objective
